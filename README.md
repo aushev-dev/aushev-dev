@@ -27,4 +27,4 @@ I'm a seasoned Software Engineer specializing in Ruby on Rails development. I ha
 Thanks for stopping by my page! Don't forget to check out my repos. 
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aushev-dev&theme=tokyonight)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aushev-dev&show_icons=true&theme=tokyonight)
