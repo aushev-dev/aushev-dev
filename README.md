@@ -22,7 +22,7 @@ I'm a seasoned Software Engineer specializing in Ruby on Rails development. I ha
 * Finance University under the Government of the Russian Federation, Bachelor's in Taxation  
 * Moscow Finance and Law Academy (MFUA), Bachelor's in Law
 
-:mailbox: Reach me at mair@aushev.dev and [LinkedIn](linkedin.com/in/aushev-dev).
+:mailbox: Reach me at mair@aushev.dev and [LinkedIn](https://www.linkedin.com/in/aushev-dev/).
 
 Thanks for stopping by my page! Don't forget to check out my repos. 
 
