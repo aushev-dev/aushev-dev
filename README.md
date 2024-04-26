@@ -1,6 +1,6 @@
 # Hello there! :wave: I'm Mair Aushev.
 
-I'm a proficient Software Engineer with 5 years of comprehensive experience in web development, primarily using Ruby on Rails. I am skilled in building solid web applications and connecting them with various APIs. Throughout my career at well-known companies like Trucker, TIONIX, and Flussonic, I've strengthened my abilities in using technologies such as Ruby on Rails, PostgreSQL, RabbitMQ, Sidekiq, Redis, Sentry, and ClickHouse. This has led to more reliable and scalable platforms. I am also well-versed in deploying and managing applications on Heroku and VPS, with a good grasp of Docker for containerization.![Uploading image.png…]()
+I'm a proficient Software Engineer with 5 years of comprehensive experience in web development, primarily using Ruby on Rails. I am skilled in building solid web applications and connecting them with various APIs. Throughout my career at well-known companies like Trucker, TIONIX, and Flussonic, I've strengthened my abilities in using technologies such as Ruby on Rails, PostgreSQL, RabbitMQ, Sidekiq, Redis, Sentry, and ClickHouse. This has led to more reliable and scalable platforms. I am also well-versed in deploying and managing applications on Heroku and VPS, with a good grasp of Docker for containerization.
 
 ## :wrench: Technical Skills 
 * Ruby and Ruby on Rails
